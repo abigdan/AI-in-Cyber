@@ -13,7 +13,6 @@ def get_lemmas(msg):
     return lemmas
 
 
-# 'plot_decision_regions' from https://github.com/rasbt/python-machine-learning-book
 
 from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
